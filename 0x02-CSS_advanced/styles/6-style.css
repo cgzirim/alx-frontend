@@ -23,14 +23,14 @@ html {
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight: var(--font-weight-regular);
     font-family: var(--font-family-title);
+    font-weight: var(--font-weight-bold);
 }
 
 body {
-    font-weight: var(--font-weight-regular);
     font-size: var(--font-size-medium);
     font-family: var(--font-family-base);
+    font-weight: var(--font-weight-regular);
 }
 
 body, a {
