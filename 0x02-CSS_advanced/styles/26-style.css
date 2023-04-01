@@ -192,6 +192,10 @@ a:active {
     text-decoration: none;
 }
 
+.card-testimonial {
+    text-align: center;
+}
+
 .card-testimonial .card-avater {
     border-radius: 50%;
     width: 10rem;
